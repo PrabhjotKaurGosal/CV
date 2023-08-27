@@ -1,4 +1,6 @@
 # About Me
+A seasoned engineer with 10+ years of experience in the automotive industry, specializing in the design and validation of the Advanced Driver Assistance Systems (ADAS) features. Dedicated researcher with a track record of patents and publications in Machine Learning, Deep Learning, Natural Language Processing, and ADAS domains. 
+Proven team player in cross-functional settings, passionate about mentoring emerging engineers. Active Toastmasters International member for 6+ years, including 2 years as President and Vice President of Education. Enjoys public speaking and sharing knowledge with others.
 
 ## Latest News
 * 07/26/23 - Invited to judge a senior year design project
