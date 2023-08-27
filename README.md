@@ -10,8 +10,6 @@
 
 ## Talks
 
-## Service
-
 ## Patents
 * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en)
 * [Systems and methods to communicate an intended vehicle maneuver](https://patents.google.com/patent/US20210146827A1/en)
@@ -28,6 +26,8 @@
 * [Poster: Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796)
 ### Year of 2021
 * [A survey on simulators for testing self driving cars](https://ieeexplore.ieee.org/abstract/document/9499331)
+
+## Service
 
 
 
