@@ -18,6 +18,9 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 * [Method and subsystem for controlling an autonomous braking system for a vehicle](https://patents.google.com/patent/US11198418B2/en)
 * [Intelligent park assist system to reduce parking violations](https://patents.google.com/patent/US20220351622A1/en)
 * [Intersection collision mitigation risk assessment model](https://patents.google.com/patent/US20220410882A1/en)
+* [Dynamic A pillar blind spot determination] US App. No. 17/937,533
+* [Intelligent Park Assist system to reduce parking violations, using time series modeling, and/or sign reading with park assist interface] US App. No.	18/150,507
+* [Automated Pickup and Drop off planning and execution for vehicles] US App. No. 18/464,702
 
 ## Publications
 ### Year of 2023
