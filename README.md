@@ -2,8 +2,6 @@
 A seasoned engineer and a researcher. 10+ years of experience in the automotive industry, specializing in the design and validation of the Advanced Driver Assistance Systems (ADAS). Dedicated researcher with a track record of patents and publications in Machine Learning, Deep Learning, Natural Language Processing, and ADAS domains. 
 Proven team player in cross-functional settings, passionate about mentoring emerging engineers. Active Toastmasters International member for 6+ years, including 2 years as President and Vice President of Education. Enjoys public speaking and sharing knowledge with others.
 
-[LinkedIn](https://www.linkedin.com/in/pkaur1/)   [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=vh9GkwUAAAAJ)   [Personal website](https://prabhjotkaurgosal.com/)
-
 ## Latest News
 * Audio Machine Learning channel hit 1000 subscribers
   * [Prabhjot Gosal](https://www.youtube.com/@prabhjotgosal2489)
@@ -48,9 +46,9 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 ## Professional Service
 
 ## Other links
-* [LinkedIn](https://www.linkedin.com/in/pkaur1/)
-* [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=vh9GkwUAAAAJ)
-* [Personal website](https://prabhjotkaurgosal.com/)
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/pkaur1/)
+* Check out my technical articles and tutorials [Personal website](https://prabhjotkaurgosal.com/)
+* Access my publications and patents on [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=vh9GkwUAAAAJ)
 
 
 
