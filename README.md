@@ -24,6 +24,10 @@ Proven team player in cross-functional settings, passionate about mentoring emer
   * [AI for Everyone](https://www.youtube.com/watch?v=7fwSLF2Q58w)
 * 07/26/23 - Invited to a podcast to discuss AI 
   * [The Truth about AI with Prabhjot Kaur](https://www.youtube.com/watch?v=hLM2Wx8Df28)
+* Poster at SEC 2022 conference
+* Chase 2022 conference
+* MetroCAD 2021 conference
+* MetroCAD 2022 conference
     
 ## Professional Service
 
@@ -40,10 +44,6 @@ I enjoy teeaching and sharing my knowledge. I frequently add lectures and tutori
   * ECE department, University of Michigan - Dearborn
 * 07/26/23 - Invited to give a talk on AI at IEEE
 * 07/26/23 - Invited to a podcast to discuss AI 
-* Poster at SEC 2022 conference
-* Chase 2022 conference
-* MetroCAD 2021 conference
-* MetroCAD 2022 conference
 
 ## Other links
 * [LinkedIn](https://www.linkedin.com/in/pkaur1/)
