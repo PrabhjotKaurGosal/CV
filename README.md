@@ -8,13 +8,18 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 * 07/26/23 - Invited to judge a senior year design project
   * ECE department, University of Michigan - Dearborn
 * 07/26/23 - Invited for a talk on AI at IEEE
-  * [AI for Everyone](https://www.youtube.com/watch?v=7fwSLF2Q58w)
 * 07/26/23 - Invited to a podcast to discuss AI 
-  * [The Truth about AI with Prabhjot Kaur](https://www.youtube.com/watch?v=hLM2Wx8Df28)
-* Chase conference
+* Poster at SEC 2022 conference
+* Chase 2022 conference
+* MetroCAD 2021 conference
+* MetroCAD 2022 conference
     
 
 ## Talks
+* 07/26/23 - Invited for a talk on AI at IEEE
+  * [AI for Everyone](https://www.youtube.com/watch?v=7fwSLF2Q58w)
+* 07/26/23 - Invited to a podcast to discuss AI 
+  * [The Truth about AI with Prabhjot Kaur](https://www.youtube.com/watch?v=hLM2Wx8Df28)
 
 ## Patents
 * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en)
