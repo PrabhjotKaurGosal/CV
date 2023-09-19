@@ -41,9 +41,13 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 ### Year of 2021
 * [A survey on simulators for testing self driving cars](https://ieeexplore.ieee.org/abstract/document/9499331)
 
-## Teaching
 
 ## Professional Service
+
+## Personal projects/ Hobbies
+### Teaching
+* [Audio Machine Learning and Speech Processing Lectures](https://www.youtube.com/@prabhjotgosal2489)
+* [Personal website](https://prabhjotkaurgosal.com/)
 
 ## Other links
 * [LinkedIn](https://www.linkedin.com/in/pkaur1/)
