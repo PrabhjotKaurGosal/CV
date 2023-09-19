@@ -46,9 +46,10 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 ## Professional Service
 
 ## Other links
-* Connect with me on [LinkedIn](https://www.linkedin.com/in/pkaur1/)
-* Check out various technical articles and tutorials on my [website](https://prabhjotkaurgosal.com/)
-* Access my publications and patents on [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=vh9GkwUAAAAJ)
+* [LinkedIn](https://www.linkedin.com/in/pkaur1/)
+* [Personal website](https://prabhjotkaurgosal.com/)
+* [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=vh9GkwUAAAAJ)
+* [Audio Machine Learning and Speech Processing Youtube channel](https://www.youtube.com/@prabhjotgosal2489)
 
 
 
