@@ -43,7 +43,7 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 
 ## Teaching
 
-## Service
+## Professional Service
 
 ## Other links
 * [LinkedIn](https://www.linkedin.com/in/pkaur1/)
