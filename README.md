@@ -3,6 +3,8 @@ A seasoned engineer and a researcher. 10+ years of experience in the automotive 
 Proven team player in cross-functional settings, passionate about mentoring emerging engineers. Active Toastmasters International member for 6+ years, including 2 years as President and Vice President of Education. Enjoys public speaking and sharing knowledge with others.
 
 ## Latest News
+* Audio Machine Learning channel hit 1000 subscribers
+  * [Prabhjot Gosal](https://www.youtube.com/@prabhjotgosal2489)
 * 07/26/23 - Invited to judge a senior year design project
   * ECE department, University of Michigan - Dearborn
 * 07/26/23 - Invited for a talk on AI at IEEE
