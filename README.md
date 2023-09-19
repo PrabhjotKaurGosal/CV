@@ -7,7 +7,7 @@ Proven team player in cross-functional settings, passionate about mentoring emer
   * [Prabhjot Gosal](https://www.youtube.com/@prabhjotgosal2489)
 * 07/26/23 - Invited to judge a senior year design project
   * ECE department, University of Michigan - Dearborn
-* 07/26/23 - Invited for a talk on AI at IEEE
+* 07/26/23 - Invited to give a talk on AI at IEEE
 * 07/26/23 - Invited to a podcast to discuss AI 
 * Poster at SEC 2022 conference
 * Chase 2022 conference
