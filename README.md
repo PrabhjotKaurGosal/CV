@@ -46,8 +46,9 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 
 ## Personal projects/ Hobbies
 ### Teaching
+I enjoy teeaching and sharing my knowledge. I frequently add lectures and tutorials on my Youtube channel and personal website.
 * [Audio Machine Learning and Speech Processing Lectures](https://www.youtube.com/@prabhjotgosal2489)
-* [Personal website](https://prabhjotkaurgosal.com/)
+* [Tutotials and Technical articles](https://prabhjotkaurgosal.com/)
 
 ## Other links
 * [LinkedIn](https://www.linkedin.com/in/pkaur1/)
