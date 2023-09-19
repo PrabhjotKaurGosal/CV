@@ -46,7 +46,7 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 ## Professional Service
 
 ## Other links
-* Connect with me on [LinkedIn](https://www.linkedin.com/in/pkaur1/)
+* onnect with me on [LinkedIn](https://www.linkedin.com/in/pkaur1/)
 * Check out my technical articles and tutorials [Personal website](https://prabhjotkaurgosal.com/)
 * Access my publications and patents on [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=vh9GkwUAAAAJ)
 
