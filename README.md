@@ -32,13 +32,10 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 * [Automated Pickup and Drop off planning and execution for vehicles] US App. No. 18/464,702
 
 ## Publications
-### Year of 2023
-### Year of 2022
 * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745)
 * [Simulators for Mobile Social Robots: State-of-the-Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9844905)
 * [Sensor fusion method for detecting emergency vehicles](https://www.researchdisclosure.com/database/RD696088)
 * [Poster: Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796)
-### Year of 2021
 * [A survey on simulators for testing self driving cars](https://ieeexplore.ieee.org/abstract/document/9499331)
 
 
