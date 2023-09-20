@@ -38,8 +38,7 @@ I enjoy teeaching and sharing my knowledge. I frequently add lectures and tutori
 * [Tutotials and Technical articles](https://prabhjotkaurgosal.com/)
 
 ## Latest News
-* Audio Machine Learning channel hit 1000 subscribers
-  * [Prabhjot Gosal](https://www.youtube.com/@prabhjotgosal2489)
+* [Audio Machine Learning and Speech Processing Lectures](https://www.youtube.com/@prabhjotgosal2489) - My YouTube channel hit 1000 subscribers
 * Became a IEEE Senior Memeber 
 * 07/26/23 - Invited to judge a senior year design project
   * ECE department, University of Michigan - Dearborn
