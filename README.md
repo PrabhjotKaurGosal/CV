@@ -32,6 +32,7 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 ## Professional Service
 ### Reviewer
 * IEEE Access
+* International Conference on Computer Vision and Virtual Reality
 
 ## Personal projects/ Hobbies
 ### Teaching
