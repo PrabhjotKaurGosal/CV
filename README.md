@@ -30,6 +30,8 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 * MetroCAD 2022 conference
     
 ## Professional Service
+### Reviewer
+* IEEE Access
 
 ## Personal projects/ Hobbies
 ### Teaching
