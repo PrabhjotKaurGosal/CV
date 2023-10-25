@@ -18,7 +18,10 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 * [Simulators for Mobile Social Robots: State-of-the-Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9844905)
 * [Sensor fusion method for detecting emergency vehicles](https://www.researchdisclosure.com/database/RD696088)
 * [Poster: Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796)
-* [A survey on simulators for testing self driving cars](https://ieeexplore.ieee.org/abstract/document/9499331)  
+* [A survey on simulators for testing self driving cars](https://ieeexplore.ieee.org/abstract/document/9499331)
+
+## Awards and Recognition
+* IEEE Senior Member
 
 ## Talks
 * 07/26/23 - Invited for a talk on AI at IEEE
