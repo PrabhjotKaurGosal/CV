@@ -11,6 +11,7 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 * [Dynamic A pillar blind spot determination] US App. No. 17/937,533
 * [Intelligent Park Assist system to reduce parking violations, using time series modeling, and/or sign reading with park assist interface] US App. No.	18/150,507
 * [Automated Pickup and Drop off planning and execution for vehicles] US App. No. 18/464,702
+* [Method to Assess Driver Responsiveness and improve system response through Language Processing] US App. No. 18/492,436
 
 ## Publications
 * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745)
