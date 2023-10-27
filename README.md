@@ -34,6 +34,9 @@ Technologies (CHASE). ACM/IEEE.
 * IEEE Access
 * International Conference on Computer Vision and Virtual Reality
 
+### Judge
+* Invited to judge a senior year design project. ECE department, University of Michigan - Dearborn
+
 ## Talks
 * 07/26/23 - Invited for a talk on AI at IEEE
   * [AI for Everyone](https://www.youtube.com/watch?v=7fwSLF2Q58w)
@@ -55,11 +58,6 @@ I enjoy teeaching and sharing my knowledge. All lectures and tutorials can be fo
 
 ## Latest News
 * My [YouTube channel](https://www.youtube.com/@prabhjotgosal2489) on Audio Machine Learning and Speech Processing hit 1000 subscribers
-* Became a IEEE Senior Memeber 
-* 07/26/23 - Invited to judge a senior year design project
-  * ECE department, University of Michigan - Dearborn
-* 07/26/23 - Invited to give a talk on AI at IEEE
-* 07/26/23 - Invited to a podcast to discuss AI 
 
 ## Other links
 * [LinkedIn](https://www.linkedin.com/in/pkaur1/)
