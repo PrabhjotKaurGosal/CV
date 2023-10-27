@@ -3,15 +3,15 @@ A seasoned engineer and a researcher. 10+ years of experience in the automotive 
 Proven team player in cross-functional settings, passionate about mentoring emerging engineers. Active Toastmasters International member for 6+ years, including 2 years as President and Vice President of Education. Enjoys public speaking and sharing knowledge with others.
 
 ## Patents
-* [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en)
-* [Systems and methods to communicate an intended vehicle maneuver](https://patents.google.com/patent/US20210146827A1/en)
-* [Method and subsystem for controlling an autonomous braking system for a vehicle](https://patents.google.com/patent/US11198418B2/en)
-* [Intelligent park assist system to reduce parking violations](https://patents.google.com/patent/US20220351622A1/en)
-* [Intersection collision mitigation risk assessment model](https://patents.google.com/patent/US20220410882A1/en)
+* [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en). U.S. Patent No. 10,552,695
+* [Systems and methods to communicate an intended vehicle maneuver](https://patents.google.com/patent/US20210146827A1/en). 
+* [Method and subsystem for controlling an autonomous braking system for a vehicle](https://patents.google.com/patent/US11198418B2/en). U.S. Patent No. 11,198,418
+* [Intelligent park assist system to reduce parking violations](https://patents.google.com/patent/US20220351622A1/en). U.S. Patent Application No. 17/242,905
+* [Intersection collision mitigation risk assessment model](https://patents.google.com/patent/US20220410882A1/en). 
 * [Dynamic A pillar blind spot determination] Patent pending. US App. No. 17/937,533
 * [Intelligent Park Assist system to reduce parking violations, using time series modeling, and/or sign reading with park assist interface] Patent pending. US App. No.	18/150,507
-* [Automated Pickup and Drop off planning and execution for vehicles] Patent pending. US App. No. 18/464,702
-* [Method to Assess Driver Responsiveness and improve system response through Language Processing] Patent pending. US App. No. 18/492,436
+* [Automated Pickup and Drop off planning and execution for vehicles] Patent filed. US App. No. 18/464,702
+* [Method to Assess Driver Responsiveness and improve system response through Language Processing] Patent filed. US App. No. 18/492,436
 
 ## Publications
 * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745). In 
@@ -27,6 +27,7 @@ Technologies (CHASE). ACM/IEEE.
 
 ## Awards and Recognition
 * IEEE Senior Member
+* NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant, 2022
 
 ## Talks
 * 07/26/23 - Invited for a talk on AI at IEEE
