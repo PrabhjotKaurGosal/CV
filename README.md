@@ -4,8 +4,8 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 
 ## Patents
 * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en). U.S. Patent No. 10,552,695
-* [Systems and methods to communicate an intended vehicle maneuver](https://patents.google.com/patent/US20210146827A1/en). US20210146827A1
 * [Method and subsystem for controlling an autonomous braking system for a vehicle](https://patents.google.com/patent/US11198418B2/en). U.S. Patent No. 11,198,418
+* [Systems and methods to communicate an intended vehicle maneuver](https://patents.google.com/patent/US20210146827A1/en). US20210146827A1
 * [Intelligent park assist system to reduce parking violations](https://patents.google.com/patent/US20220351622A1/en). U.S. Patent Application No. 17/242,905
 * [Intersection collision mitigation risk assessment model](https://patents.google.com/patent/US20220410882A1/en). US20220410882A1
 * [Dynamic A pillar blind spot determination] Patent pending. US App. No. 17/937,533
@@ -34,10 +34,12 @@ Technologies (CHASE). ACM/IEEE.
   * [AI for Everyone](https://www.youtube.com/watch?v=7fwSLF2Q58w)
 * 07/26/23 - Invited to a podcast to discuss AI 
   * [The Truth about AI with Prabhjot Kaur](https://www.youtube.com/watch?v=hLM2Wx8Df28)
-* Poster at SEC 2022 conference
-* Chase 2022 conference
-* MetroCAD 2021 conference
-* MetroCAD 2022 conference
+* Presented a poster [Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796) at the 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). Bellevue, Washington. December, 2022.
+* Presented a rsearch paper [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745) at the 2022 International Conference on Connected Health: Applications, Systems and Engineering 
+Technologies (CHASE). Virginia. November, 2022.
+* Presented a reserach paper [Simulators for Mobile Social Robots: State-of-the-Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9844905) at the 2022 Fifth International Conference on Connected and Autonomous Driving 
+(MetroCAD). Detroit, Michigan. April, 2022.
+* Presented a research paper [A survey on simulators for testing self driving cars](https://ieeexplore.ieee.org/abstract/document/9499331) at the 2021 Fourth International Conference on Connected and Autonomous Driving (MetroCAD). Detroit, Michigan. April, 2020.
     
 ## Professional Service
 ### Reviewer
