@@ -29,6 +29,11 @@ Technologies (CHASE). ACM/IEEE.
 * IEEE Senior Member
 * NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant, 2022
 
+## Professional Service
+### Reviewer
+* IEEE Access
+* International Conference on Computer Vision and Virtual Reality
+
 ## Talks
 * 07/26/23 - Invited for a talk on AI at IEEE
   * [AI for Everyone](https://www.youtube.com/watch?v=7fwSLF2Q58w)
@@ -41,10 +46,6 @@ Technologies (CHASE). Virginia. November, 2022.
 (MetroCAD). Detroit, Michigan. April, 2022.
 * Presented a research paper [A survey on simulators for testing self driving cars](https://ieeexplore.ieee.org/abstract/document/9499331) at the 2021 Fourth International Conference on Connected and Autonomous Driving (MetroCAD). Detroit, Michigan. April, 2020.
     
-## Professional Service
-### Reviewer
-* IEEE Access
-* International Conference on Computer Vision and Virtual Reality
 
 ## Personal projects/ Hobbies
 ### Teaching
