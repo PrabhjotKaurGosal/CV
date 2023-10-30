@@ -39,16 +39,16 @@ Technologies (CHASE). ACM/IEEE.
 * Invited to judge a senior year design project, 2023. ECE department, University of Michigan - Dearborn
 
 ## Talks
-* 08/01/23 - Invited for a talk on AI by IEEE Southeastern Michigan
+* 08/01/23 - Invited for a talk on AI by IEEE Southeastern Michigan section
   * [AI for Everyone](https://www.youtube.com/watch?v=7fwSLF2Q58w)
-* 07/26/23 - Invited to a podcast to discuss AI 
+* 08/15/23 - Invited to a podcast to discuss AI 
   * [The Truth about AI with Prabhjot Kaur](https://www.youtube.com/watch?v=hLM2Wx8Df28)
-* Presented a poster [Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796) at the 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). Bellevue, Washington. December, 2022.
-* Presented a rsearch paper [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745) at the 2022 International Conference on Connected Health: Applications, Systems and Engineering 
+* 12/02/22 - Presented a poster [Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796) at the 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). Bellevue, Washington. December, 2022.
+* 11/18/22 - Presented a rsearch paper [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745) at the 2022 International Conference on Connected Health: Applications, Systems and Engineering 
 Technologies (CHASE). Virginia. November, 2022.
-* Presented a reserach paper [Simulators for Mobile Social Robots: State-of-the-Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9844905) at the 2022 Fifth International Conference on Connected and Autonomous Driving 
+* 4/30/22 - Presented a reserach paper [Simulators for Mobile Social Robots: State-of-the-Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9844905) at the 2022 Fifth International Conference on Connected and Autonomous Driving 
 (MetroCAD). Detroit, Michigan. April, 2022.
-* Presented a research paper [A survey on simulators for testing self driving cars](https://ieeexplore.ieee.org/abstract/document/9499331) at the 2021 Fourth International Conference on Connected and Autonomous Driving (MetroCAD). Detroit, Michigan. April, 2020.
+* 4/30/21 - Presented a research paper [A survey on simulators for testing self driving cars](https://ieeexplore.ieee.org/abstract/document/9499331) at the 2021 Fourth International Conference on Connected and Autonomous Driving (MetroCAD). Detroit, Michigan. April, 2020.
     
 
 ## Personal projects/ Hobbies
@@ -58,7 +58,7 @@ I enjoy teeaching and sharing my knowledge. All lectures and tutorials can be fo
 * [Tutotials and Technical articles](https://prabhjotkaurgosal.com/)
 
 ## Latest News
-* My [YouTube channel](https://www.youtube.com/@prabhjotgosal2489) on Audio Machine Learning and Speech Processing hit 1000 subscribers
+* My [YouTube channel](https://www.youtube.com/@prabhjotgosal2489) on Audio Machine Learning and Speech Processing reached 1000+ subscribers
 
 ## Other links
 * [LinkedIn](https://www.linkedin.com/in/pkaur1/)
