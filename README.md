@@ -2,13 +2,17 @@
 A seasoned engineer and a researcher. 10+ years of experience in the automotive industry, specializing in the design and validation of the Advanced Driver Assistance Systems (ADAS). Dedicated researcher with a track record of patents and publications in Machine Learning, Deep Learning, Natural Language Processing, and ADAS domains. 
 Proven team player in cross-functional settings, passionate about mentoring emerging engineers. 
 
+## Education
+* Ph.D., Computer Science. Wayne State University, Detroit, MI. Jan 2018 - May 2024
+* M.Sc., Electrical Engineering. University of Michigan - Dearborn, MI. Sept 2014 - Dec 2016
+* B.Sc., Electrical Engineering. Wayne State University, Detroit, MI. Sept 2008 - May 2012
+
 ## Work Experience
 * General Motors, Warren, Michigan. 
   * Automated Driving Lead Software Platform Engineer. Oct 2021 - Present
   * Automated Driving and Active Safety Subsystem Lead Engineer. Sep 2017 - Sept 2021
   * Component Validation Engineer. Jan 2013 - Aug 2017
   * For further deatils, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
-
 
 ## Patents
 * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en). U.S. Patent No. 10,552,695
@@ -64,6 +68,10 @@ Technologies (CHASE). Virginia. November, 2022.
 I enjoy teaching and sharing my knowledge. All lectures and tutorials can be found my Youtube channel and personal website.
 * [Audio Machine Learning and Speech Processing Lectures](https://www.youtube.com/@prabhjotgosal2489)
 * [Tutotials and Technical articles](https://prabhjotkaurgosal.com/)
+### Public Speaking
+I am active member of Toastmasters International.
+* Served as a President. Birmingham Toastmasters Club. Birmingham, Michigan. July 2020 - June 2021
+* Served as a Vive President of Education. Birmingham Toastmasters Club. Birmingham, Michigan. July 2019 - June 2020
 
 ## Latest News
 * My [YouTube channel](https://www.youtube.com/@prabhjotgosal2489) on Audio Machine Learning and Speech Processing reached 1000+ subscribers
