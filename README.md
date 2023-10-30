@@ -41,11 +41,13 @@ Technologies (CHASE). ACM/IEEE.
 * IEEE Senior Member
   * See the recognition on page 9 of the [September 2023 Wavelengths](https://r4.ieee.org/sem/wp-content/uploads/sites/6/2023/09/2023_09_WL.pdf) edition
 * Received NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant, 2022
+* My patent recognized in the [GM Authority](https://gmauthority.com/blog/2022/11/gm-files-patent-for-intelligent-park-assist-system-to-reduce-parking-violations/#:~:text=GM%20has%20filed%20a%20patent,published%20November%203rd%2C%202022.)t, 2022
 
 ## Professional Service
 ### Reviewer
 * IEEE Access
 * International Conference on Computer Vision and Virtual Reality
+* Science Publishing Group
 
 ### Judge
 * Invited to judge a senior year design project, 2023. ECE department, University of Michigan - Dearborn
