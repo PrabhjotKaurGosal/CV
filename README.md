@@ -8,10 +8,10 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 * [Systems and methods to communicate an intended vehicle maneuver](https://patents.google.com/patent/US20210146827A1/en). US20210146827A1
 * [Intelligent park assist system to reduce parking violations](https://patents.google.com/patent/US20220351622A1/en). U.S. Patent Application No. 17/242,905
 * [Intersection collision mitigation risk assessment model](https://patents.google.com/patent/US20220410882A1/en). US20220410882A1
-* [Dynamic A pillar blind spot determination] Patent pending. US App. No. 17/937,533
-* [Intelligent Park Assist system to reduce parking violations, using time series modeling, and/or sign reading with park assist interface] Patent pending. US App. No.	18/150,507
-* [Automated Pickup and Drop off planning and execution for vehicles] Patent filed. US App. No. 18/464,702
-* [Method to Assess Driver Responsiveness and improve system response through Language Processing] Patent filed. US App. No. 18/492,436
+* [Dynamic A pillar blind spot determination]. Patent pending. US App. No. 17/937,533
+* [Intelligent Park Assist system to reduce parking violations, using time series modeling, and/or sign reading with park assist interface]. Patent pending. US App. No.	18/150,507
+* [Automated Pickup and Drop off planning and execution for vehicles]. Patent filed. US App. No. 18/464,702
+* [Method to Assess Driver Responsiveness and improve system response through Language Processing]. Patent filed. US App. No. 18/492,436
 
 ## Publications
 * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745). In 
@@ -27,7 +27,8 @@ Technologies (CHASE). ACM/IEEE.
 
 ## Awards and Recognition
 * IEEE Senior Member
-* NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant, 2022
+  * See the recognition on page 9 pf the [September 2023 Wavelengths](https://r4.ieee.org/sem/wp-content/uploads/sites/6/2023/09/2023_09_WL.pdf) edition
+* Received NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant, 2022
 
 ## Professional Service
 ### Reviewer
@@ -35,10 +36,10 @@ Technologies (CHASE). ACM/IEEE.
 * International Conference on Computer Vision and Virtual Reality
 
 ### Judge
-* Invited to judge a senior year design project. ECE department, University of Michigan - Dearborn
+* Invited to judge a senior year design project, 2023. ECE department, University of Michigan - Dearborn
 
 ## Talks
-* 07/26/23 - Invited for a talk on AI at IEEE
+* 08/01/23 - Invited for a talk on AI by IEEE Southeastern Michigan
   * [AI for Everyone](https://www.youtube.com/watch?v=7fwSLF2Q58w)
 * 07/26/23 - Invited to a podcast to discuss AI 
   * [The Truth about AI with Prabhjot Kaur](https://www.youtube.com/watch?v=hLM2Wx8Df28)
