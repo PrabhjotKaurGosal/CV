@@ -69,7 +69,7 @@ I enjoy teaching and sharing my knowledge. All lectures and tutorials can be fou
 * [Audio Machine Learning and Speech Processing Lectures](https://www.youtube.com/@prabhjotgosal2489)
 * [Tutotials and Technical articles](https://prabhjotkaurgosal.com/)
 ### Public Speaking
-I am active member of Toastmasters International.
+I am an active member of Toastmasters International.
 * Served as a President. Birmingham Toastmasters Club. Birmingham, Michigan. July 2020 - June 2021
 * Served as a Vive President of Education. Birmingham Toastmasters Club. Birmingham, Michigan. July 2019 - June 2020
 
