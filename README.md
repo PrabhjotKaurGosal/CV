@@ -27,7 +27,7 @@ Technologies (CHASE). ACM/IEEE.
 
 ## Awards and Recognition
 * IEEE Senior Member
-  * See the recognition on page 9 pf the [September 2023 Wavelengths](https://r4.ieee.org/sem/wp-content/uploads/sites/6/2023/09/2023_09_WL.pdf) edition
+  * See the recognition on page 9 of the [September 2023 Wavelengths](https://r4.ieee.org/sem/wp-content/uploads/sites/6/2023/09/2023_09_WL.pdf) edition
 * Received NSF ACM/IEEE Symposium on Edge Computing (SEC) Student Travel Grant, 2022
 
 ## Professional Service
@@ -44,7 +44,7 @@ Technologies (CHASE). ACM/IEEE.
 * 08/15/23 - Invited to a podcast to discuss AI 
   * [The Truth about AI with Prabhjot Kaur](https://www.youtube.com/watch?v=hLM2Wx8Df28)
 * 12/02/22 - Presented a poster [Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796) at the 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). Bellevue, Washington. December, 2022.
-* 11/18/22 - Presented a rsearch paper [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745) at the 2022 International Conference on Connected Health: Applications, Systems and Engineering 
+* 11/18/22 - Presented a research paper [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745) at the 2022 International Conference on Connected Health: Applications, Systems and Engineering 
 Technologies (CHASE). Virginia. November, 2022.
 * 4/30/22 - Presented a reserach paper [Simulators for Mobile Social Robots: State-of-the-Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9844905) at the 2022 Fifth International Conference on Connected and Autonomous Driving 
 (MetroCAD). Detroit, Michigan. April, 2022.
@@ -53,7 +53,7 @@ Technologies (CHASE). Virginia. November, 2022.
 
 ## Personal projects/ Hobbies
 ### Teaching
-I enjoy teeaching and sharing my knowledge. All lectures and tutorials can be found my Youtube channel and personal website.
+I enjoy teaching and sharing my knowledge. All lectures and tutorials can be found my Youtube channel and personal website.
 * [Audio Machine Learning and Speech Processing Lectures](https://www.youtube.com/@prabhjotgosal2489)
 * [Tutotials and Technical articles](https://prabhjotkaurgosal.com/)
 
