@@ -67,13 +67,13 @@ Technologies (CHASE). Virginia. November, 2022.
 
 ## Personal projects/ Hobbies
 ### Teaching
-I enjoy teaching and sharing my knowledge. All lectures and tutorials can be found my Youtube channel and personal website.
+I enjoy teaching and sharing my knowledge. All lectures and tutorials can be found on my Youtube channel and personal website.
 * [Audio Machine Learning and Speech Processing Lectures](https://www.youtube.com/@prabhjotgosal2489)
 * [Tutotials and Technical articles](https://prabhjotkaurgosal.com/)
 ### Public Speaking
 I am an active member of Toastmasters International.
 * Served as a President. Birmingham Toastmasters Club. Birmingham, Michigan. July 2020 - June 2021
-* Served as a Vive President of Education. Birmingham Toastmasters Club. Birmingham, Michigan. July 2019 - June 2020
+* Served as a Vice President of Education. Birmingham Toastmasters Club. Birmingham, Michigan. July 2019 - June 2020
 
 ## Latest News
 * My [YouTube channel](https://www.youtube.com/@prabhjotgosal2489) on Audio Machine Learning and Speech Processing reached 1000+ subscribers
