@@ -47,6 +47,7 @@ Technologies (CHASE). ACM/IEEE.
 ### Reviewer
 * IEEE Access
 * International Conference on Computer Vision and Virtual Reality
+* Qeios
 * Science Publishing Group
 
 ### Judge
