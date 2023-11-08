@@ -26,10 +26,9 @@ I have a passion for few different areas when it comes to using technology for t
   * [Intelligent Park Assist system to reduce parking violations, using time series modeling, and/or sign reading with park assist interface]. Patent pending. US App. No.	18/150,507
   * [Automated Pickup and Drop off planning and execution for vehicles]. Patent filed. US App. No. 18/464,702
   * [Method to Assess Driver Responsiveness and improve system response through Language Processing]. Patent filed. US App. No. 18/492,436
-* Machine Learning
- * Natural Language Processing
- * Speech translation
-* Robotics
+* **Artitifical Intelligence/Machine Learning/Natural Language Processing/Speech translation**
+
+* **Robotics**
 
 ## Patents
 * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en). U.S. Patent No. 10,552,695
