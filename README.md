@@ -15,7 +15,7 @@ Proven team player in cross-functional settings, passionate about mentoring emer
   * For further deatils, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
  
 ## Specialization areas
-I have a passion for few different areas when it comes to using technology for the benefit of humanity. Below is a high-level breakdown of various different areas that I specialize in.
+I have a passion for few different areas when it comes to using technology for the benefit of humanity. Below is a high-level breakdown of various different areas that I specialize in and the related patents/papers/projects.
 * **Automotive engineering**: I have been in the automotive industry for over 10 years, developing Advanced Driver Assistance Systems (ADAS). Specifically, developing and testing collision mitigation features, such as Forward Collision Alert, Automatic Emergency Braking, Intersection Collision Mitigation, and Pedestrian Collision Mitigation. These features aim to reduce traffic accidents by assisting drivers through necessary alerts and mitigation actions. Less traffic accidents mean less lives lost. My patents and publications in this domain are below.
   * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en). U.S. Patent No. 10,552,695
   * [Method and subsystem for controlling an autonomous braking system for a vehicle](https://patents.google.com/patent/US11198418B2/en). U.S. Patent No. 11,198,418
