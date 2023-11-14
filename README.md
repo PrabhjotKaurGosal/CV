@@ -36,6 +36,7 @@ Below is a high-level breakdown of various areas that I specialize in and relate
   
 * **Natural Language Processing**: Being a tri-lingual myself, I see the value and knowledge embedded in every language of the world. I am passionate about enabling knowledge-sharing across different cultures and bringing communities together by overcoming language barriers. While my PhD reserach is currently focused in speech translation, I am well versed in dealing with both texual and speech data.
   * Speech Processing:
+  * Audio Machine Learning and Speech Processing Lectures
     
 * **Audio Machine Learning**:
   * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745). In 
