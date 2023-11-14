@@ -1,5 +1,5 @@
 # About Me
-A seasoned engineer and a researcher. 10+ years of experience in the automotive industry, specializing in the design and validation of the Advanced Driver Assistance Systems (ADAS). Dedicated researcher with a track record of patents and publications in Machine Learning, Deep Learning, Natural Language Processing, and ADAS domains. 
+A seasoned engineer and a researcher. 10+ years of experience in product development in the automotive industry, specializing in the design and validation of the Advanced Driver Assistance Systems (ADAS). 5+ years of dedicated reserach in appplied Machine Learning, Deep Learning, Natural Language Processing with a track record of patents and publications. 
 Proven team player in cross-functional settings, passionate about mentoring emerging engineers. 
 
 ## Education
@@ -15,17 +15,22 @@ Proven team player in cross-functional settings, passionate about mentoring emer
   * For further details, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
  
 ## Specialization areas
-I have interest in few different areas when it comes to using technology for the benefit of humanity. Below is a high-level breakdown of various different areas that I specialize in and the related patents/papers/projects.
-* **Automotive engineering**: I have been in the automotive industry for over 10 years, developing Advanced Driver Assistance Systems (ADAS). Specifically, developing and testing collision mitigation features, such as Forward Collision Alert, Automatic Emergency Braking, Intersection Collision Mitigation, and Pedestrian Collision Mitigation. These features aim to reduce traffic accidents by assisting drivers through necessary alerts and mitigation actions. Less traffic accidents mean less lives lost. My patents and publications in this domain are below.
-  * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en). U.S. Patent No. 10,552,695
-  * [Method and subsystem for controlling an autonomous braking system for a vehicle](https://patents.google.com/patent/US11198418B2/en). U.S. Patent No. 11,198,418
-  * [Systems and methods to communicate an intended vehicle maneuver](https://patents.google.com/patent/US20210146827A1/en). US20210146827A1
-  * [Intelligent park assist system to reduce parking violations](https://patents.google.com/patent/US20220351622A1/en). U.S. Patent Application No. 17/242,905
-  * [Intersection collision mitigation risk assessment model](https://patents.google.com/patent/US20220410882A1/en). US20220410882A1
-  * [Dynamic A pillar blind spot determination]. Patent pending. US App. No. 17/937,533
-  * [Intelligent Park Assist system to reduce parking violations, using time series modeling, and/or sign reading with park assist interface]. Patent pending. US App. No.	18/150,507
-  * [Automated Pickup and Drop off planning and execution for vehicles]. Patent filed. US App. No. 18/464,702
-  * [Method to Assess Driver Responsiveness and improve system response through Language Processing]. Patent filed. US App. No. 18/492,436
+Below is a high-level breakdown of various areas that I specialize in and related patents/papers/projects.
+* **Robotics**
+* **Driver-assistance technology**: Having spent 10+ years in the automotive industry, I have gained deep-rooted knowledge in developing and productioning various Advanced Driver Assistance Systems (ADAS). Specifically, developing and testing collision mitigation features, such as Forward Collision Alert, Automatic Emergency Braking, Intersection Collision Mitigation, and Pedestrian Collision Mitigation. These features aim to reduce traffic accidents by assisting drivers through necessary alerts and mitigation actions. Less traffic accidents mean less lives lost. My patents and publications in this domain are below.
+  * Driver State assessment
+    * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en). U.S. Patent No. 10,552,695
+    * [Method to Assess Driver Responsiveness and improve system response through Language Processing]. Patent filed. US App. No. 18/492,436
+  * Collision assessment and mitigation
+    * [Method and subsystem for controlling an autonomous braking system for a vehicle](https://patents.google.com/patent/US11198418B2/en). U.S. Patent No. 11,198,418
+    * [Intelligent park assist system to reduce parking violations](https://patents.google.com/patent/US20220351622A1/en). U.S. Patent Application No. 17/242,905
+    * [Intersection collision mitigation risk assessment model](https://patents.google.com/patent/US20220410882A1/en). US20220410882A1
+    * [Systems and methods to communicate an intended vehicle maneuver](https://patents.google.com/patent/US20210146827A1/en). US20210146827A1
+    * [Dynamic A pillar blind spot determination]. Patent pending. US App. No. 17/937,533
+  * Parking
+    * [Intelligent Park Assist system to reduce parking violations, using time series modeling, and/or sign reading with park assist interface]. Patent pending. US App. No.	18/150,507
+    * [Automated Pickup and Drop off planning and execution for vehicles]. Patent filed. US App. No. 18/464,702
+  
 * **Artitifical Intelligence/Machine Learning/Natural Language Processing/Speech translation**
 
 * **Robotics**
