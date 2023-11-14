@@ -38,7 +38,7 @@ Below is a high-level breakdown of various areas that I specialize in and relate
   * Speech Processing:
   * Audio Machine Learning and Speech Processing Lectures
     
-* **Audio Machine Learning**:
+* **Audio Machine Learning/ Deep Learning**:
   * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745). In 
 2022 International Conference on Connected Health: Applications, Systems and Engineering
   * [Poster: Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796). In 
