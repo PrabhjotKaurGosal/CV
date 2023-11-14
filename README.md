@@ -47,6 +47,8 @@ Below is a high-level breakdown of various areas that I specialize in and relate
   * ListenBot
   
 * **Robotics**
+  * [Simulators for Mobile Social Robots: State-of-the-Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9844905). In 2022 Fifth International Conference on Connected and Autonomous Driving 
+(MetroCAD). IEEE.
 
 ## Patents
 * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en). U.S. Patent No. 10,552,695
