@@ -12,7 +12,7 @@ Proven team player in cross-functional settings, passionate about mentoring emer
   * Automated Driving Lead Software Platform Engineer. Oct 2021 - Present
   * Automated Driving and Active Safety Subsystem Lead Engineer. Sep 2017 - Sept 2021
   * Component Validation Engineer. Jan 2013 - Aug 2017
-  * For further deatils, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
+  * For further details, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
  
 ## Specialization areas
 I have interest in few different areas when it comes to using technology for the benefit of humanity. Below is a high-level breakdown of various different areas that I specialize in and the related patents/papers/projects.
