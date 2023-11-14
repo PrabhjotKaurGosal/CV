@@ -16,7 +16,6 @@ Proven team player in cross-functional settings, passionate about mentoring emer
  
 ## Specialization areas
 Below is a high-level breakdown of various areas that I specialize in and related patents/papers/projects.
-* **Robotics**
 * **Driver-assistance technology**: Having spent 10+ years in the automotive industry, I have gained deep-rooted knowledge in developing and productioning various Advanced Driver Assistance Systems (ADAS). Specifically, developing and testing collision mitigation features, such as Forward Collision Alert, Automatic Emergency Braking, Intersection Collision Mitigation, and Pedestrian Collision Mitigation. These features aim to reduce traffic accidents by assisting drivers through necessary alerts and mitigation actions. Less traffic accidents mean less lives lost. My patents and publications in this domain are below.
   * Driver State assessment
     * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en). U.S. Patent No. 10,552,695
@@ -27,11 +26,17 @@ Below is a high-level breakdown of various areas that I specialize in and relate
     * [Intersection collision mitigation risk assessment model](https://patents.google.com/patent/US20220410882A1/en). US20220410882A1
     * [Systems and methods to communicate an intended vehicle maneuver](https://patents.google.com/patent/US20210146827A1/en). US20210146827A1
     * [Dynamic A pillar blind spot determination]. Patent pending. US App. No. 17/937,533
-  * Parking
+    * [Sensor fusion method for detecting emergency vehicles](https://www.researchdisclosure.com/database/RD696088). Research Disclosure. Publication #: 696088
+  * Park assist
     * [Intelligent Park Assist system to reduce parking violations, using time series modeling, and/or sign reading with park assist interface]. Patent pending. US App. No.	18/150,507
     * [Automated Pickup and Drop off planning and execution for vehicles]. Patent filed. US App. No. 18/464,702
+  * Simulation
+    * [A survey on simulators for testing self driving cars](https://ieeexplore.ieee.org/abstract/document/9499331). In 2021 Fourth International Conference on Connected and Autonomous Driving (MetroCAD) (pp. 
+62-70). IEEE.
   
-* **Artitifical Intelligence/Machine Learning/Natural Language Processing/Speech translation**
+* **Natural Language Processing**: Being a tri-lingual myself, I see the value and knowledge embedded in every language of the world. I am passionate about enabling knowledge-sharing across different cultures and bringing communities together by overcoming language barriers. While my PhD reserach is currently focused in speech translation, I am well versed in dealing with both texual and speech data.
+  * Speech Processing:
+  * 
 
 * **Robotics**
 
