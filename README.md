@@ -89,11 +89,14 @@ Technologies (CHASE). ACM/IEEE.
 * Invited to judge a senior year design project, 2023. ECE department, University of Michigan - Dearborn
 
 ## Talks
-* 08/01/23 - Invited for a talk on AI by IEEE Southeastern Michigan section
-  * [AI for Everyone](https://www.youtube.com/watch?v=7fwSLF2Q58w)
-* 08/15/23 - Invited to a podcast to discuss AI 
-  * [The Truth about AI with Prabhjot Kaur](https://www.youtube.com/watch?v=hLM2Wx8Df28)
-* 12/02/22 - Presented a poster [Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796) at the 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). Bellevue, Washington. December, 2022.
+### Invited Talks
+* [AI for Everyone](https://www.youtube.com/watch?v=7fwSLF2Q58w)
+  * August 2023, Host: IEEE Southeastern Michigan section 
+* [The Truth about AI with Prabhjot Kaur](https://www.youtube.com/watch?v=hLM2Wx8Df28)
+  * August 2023, Host: Jerome
+### Conference Talks
+* Poster presentation [Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796)
+  * 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). Bellevue, Washington. December, 2022.
 * 11/18/22 - Presented a research paper [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745) at the 2022 International Conference on Connected Health: Applications, Systems and Engineering 
 Technologies (CHASE). Virginia. November, 2022.
 * 4/30/22 - Presented a reserach paper [Simulators for Mobile Social Robots: State-of-the-Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9844905) at the 2022 Fifth International Conference on Connected and Autonomous Driving 
