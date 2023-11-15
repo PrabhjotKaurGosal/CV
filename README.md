@@ -8,11 +8,10 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 * B.Sc., Electrical Engineering. Wayne State University, Detroit, MI. Sept 2008 - May 2012
 
 ## Work Experience
-* General Motors, Warren, Michigan. 
-  * Oct 2021 - Present: Automated Driving Lead Software Platform Engineer. 
-  * Sep 2017 - Sept 2021: Automated Driving and Active Safety Subsystem Lead Engineer. 
-  * Jan 2013 - Aug 2017: Component Validation Engineer. 
-  * For further details, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
+* Oct 2021 - Present: Automated Driving Lead Software Platform Engineer, General Motors
+* Sep 2017 - Sept 2021: Automated Driving and Active Safety Subsystem Lead Engineer, General Motors
+* Jan 2013 - Aug 2017: Component Validation Engineer. General Motors
+* For further details, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
  
 ## Specialization areas
 Below is a high-level breakdown of various areas that I specialize in and related patents/papers/projects.
