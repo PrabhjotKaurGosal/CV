@@ -9,9 +9,9 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 
 ## Work Experience
 * General Motors, Warren, Michigan. 
-  * Automated Driving Lead Software Platform Engineer. Oct 2021 - Present
-  * Automated Driving and Active Safety Subsystem Lead Engineer. Sep 2017 - Sept 2021
-  * Component Validation Engineer. Jan 2013 - Aug 2017
+  * Oct 2021 - Present: Automated Driving Lead Software Platform Engineer. 
+  * Sep 2017 - Sept 2021: Automated Driving and Active Safety Subsystem Lead Engineer. 
+  * Jan 2013 - Aug 2017: Component Validation Engineer. 
   * For further details, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
  
 ## Specialization areas
