@@ -33,10 +33,10 @@ Below is a high-level breakdown of various areas that I specialize in and relate
     * [A survey on simulators for testing self driving cars](https://ieeexplore.ieee.org/abstract/document/9499331). In 2021 Fourth International Conference on Connected and Autonomous Driving (MetroCAD) (pp. 
 62-70). IEEE.
   
-* **Natural Language Processing**: Being a tri-lingual myself, I see the value and knowledge embedded in every language of the world. I am passionate about enabling knowledge-sharing across different cultures and bringing communities together by overcoming language barriers. While my PhD reserach is currently focused in speech translation, I am well versed in dealing with both texual and speech data.
-  * Speech Processing:
-  * Audio Machine Learning and Speech Processing Lectures
-  * List all major NLP models used
+* **Natural Language Processing**: Being a tri-lingual myself, I see the value and knowledge embedded in every language of the world. I am passionate about enabling knowledge-sharing across different cultures and bringing communities together by overcoming language barriers. While my PhD reserach is currently focused in speech translation, I am well versed in dealing with both texual and speech data. My current ongoing projects are below.
+  * Direct Speech to Speech Translation 
+  * Automatic Speech Recognition (ASR) for low resource languages by leveraging cross lingual pre-training 
+  * I also provide free lectures/tutorials in NLP/Speech processing/Language Translation [here](https://www.youtube.com/@prabhjotgosal2489)
     
 * **Audio Machine Learning/ Deep Learning**:
   * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745). In 
