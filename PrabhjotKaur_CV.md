@@ -43,7 +43,7 @@ Below is a high-level breakdown of various areas that I specialize in and relate
 2022 International Conference on Connected Health: Applications, Systems and Engineering
   * [Poster: Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796). In 
 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). IEEE Computer Society.
-  * ListenBot
+  * ListenBot: Sound Localization and Classification system
   
 * **Robotics**
   * [ROS Navigation stack implementation on any robot](https://github.com/PrabhjotKaurGosal/ROS_projects)
