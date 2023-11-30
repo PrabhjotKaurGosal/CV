@@ -11,7 +11,7 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 * Oct 2021 - Present: Automated Driving Lead Software Platform Engineer, General Motors
 * Sep 2017 - Sept 2021: Automated Driving and Active Safety Subsystem Lead Engineer, General Motors
 * Jan 2013 - Aug 2017: Component Validation Engineer. General Motors
-* For further details, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
+* For orecise job duties and responsibilities, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
  
 ## Specialization areas
 Below is a high-level breakdown of various areas that I specialize in and related patents/papers/projects.
@@ -36,7 +36,7 @@ Below is a high-level breakdown of various areas that I specialize in and relate
 * **Natural Language Processing**: Being a tri-lingual myself, I see the value and knowledge embedded in every language of the world. I am passionate about enabling knowledge-sharing across different cultures and bringing communities together by overcoming language barriers. While my PhD reserach is currently focused in speech translation, I am well versed in dealing with both texual and speech data. My ongoing projects are below.
   * Direct Speech to Speech Translation 
   * Automatic Speech Recognition (ASR) for low resource languages by leveraging cross lingual pre-training 
-  * I also provide free lectures/tutorials in NLP/Speech processing/Language Translation [here](https://www.youtube.com/@prabhjotgosal2489)
+  * I frequently publish lectures/tutorials in NLP/Speech processing/Language Translation [here](https://www.youtube.com/@prabhjotgosal2489)
     
 * **Audio Machine Learning/ Deep Learning**:
   * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745). In 
