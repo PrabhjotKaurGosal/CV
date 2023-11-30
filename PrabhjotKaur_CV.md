@@ -45,14 +45,14 @@ Below is a high-level breakdown of various areas that I specialize in and relate
 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). IEEE Computer Society.
   * ListenBot: A robot audition system (Sound Localization and Classification)
   
-* **Robotics**: I have a deep passion for social robotics. I am experienced in using Robotic Opearting System (ROS) and Gazebo simulator. Below are the projects and tutorials on various projects I have accomplished in this area. 
+* **Robotics**: I have a deep passion for social robotics. I am experienced in using Robotic Opearting System (ROS) and Gazebo simulator. Below are the projects and tutorials on various projects I have accomplished in this area.
+  * [Simulators for Mobile Social Robots: State-of-the-Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9844905). In 2022 Fifth International Conference on Connected and Autonomous Driving (MetroCAD). IEEE.
   * [ROS Navigation stack implementation on any robot](https://github.com/PrabhjotKaurGosal/ROS_projects)
     * [In-depth tutorial](https://prabhjotkaurgosal.com/a-guide-to-implementing-ros-navigation-stack-on-your-robot/)
   * [World and Human actor simulation in Gazebo](https://github.com/PrabhjotKaurGosal/GazeboModelsWorlds)
   * [Gazebo-world-actors](https://github.com/PrabhjotKaurGosal/Gazebo-worlds-actors)
     * [A guide to create animated human models for Gazebo using MakeHuman and Blender](https://prabhjotkaurgosal.com/create-animated-human-models-for-gazebo-using-makehuman-and-blender/)
-  * [Simulators for Mobile Social Robots: State-of-the-Art and Challenges](https://ieeexplore.ieee.org/abstract/document/9844905). In 2022 Fifth International Conference on Connected and Autonomous Driving 
-(MetroCAD). IEEE.
+  
 
 ## Patents
 * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en). U.S. Patent No. 10,552,695
