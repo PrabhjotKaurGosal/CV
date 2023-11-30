@@ -11,7 +11,7 @@ Proven team player in cross-functional settings, passionate about mentoring emer
 * Oct 2021 - Present: Automated Driving Lead Software Platform Engineer, General Motors
 * Sep 2017 - Sept 2021: Automated Driving and Active Safety Subsystem Lead Engineer, General Motors
 * Jan 2013 - Aug 2017: Component Validation Engineer. General Motors
-* For orecise job duties and responsibilities, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
+* For precise job duties and responsibilities, refer to my [LinkedIn](https://www.linkedin.com/in/pkaur1/) profile
  
 ## Specialization areas
 Below is a high-level breakdown of various areas that I specialize in and related patents/papers/projects.
@@ -38,14 +38,14 @@ Below is a high-level breakdown of various areas that I specialize in and relate
   * Automatic Speech Recognition (ASR) for low resource languages by leveraging cross lingual pre-training 
   * I frequently publish lectures/tutorials in NLP/Speech processing/Language Translation [here](https://www.youtube.com/@prabhjotgosal2489)
     
-* **Audio Machine Learning/ Deep Learning**:
+* **Audio Machine Learning/ Deep Learning**: 
   * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745). In 
 2022 International Conference on Connected Health: Applications, Systems and Engineering
   * [Poster: Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796). In 
 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). IEEE Computer Society.
-  * ListenBot: Sound Localization and Classification system
+  * ListenBot: A robot audition system (Sound Localization and Classification)
   
-* **Robotics**
+* **Robotics**: I have a deep passion for social robotics. I am experienced in using Robotic Opearting System (ROS) and Gazebo simulator. Below are the projects and tutorials on various projects I have accomplished in this area. 
   * [ROS Navigation stack implementation on any robot](https://github.com/PrabhjotKaurGosal/ROS_projects)
     * [In-depth tutorial](https://prabhjotkaurgosal.com/a-guide-to-implementing-ros-navigation-stack-on-your-robot/)
   * [World and Human actor simulation in Gazebo](https://github.com/PrabhjotKaurGosal/GazeboModelsWorlds)
