@@ -98,7 +98,7 @@ Technologies (CHASE). ACM/IEEE.
 * [AI for Everyone](https://www.youtube.com/watch?v=7fwSLF2Q58w)
   * August 2023, Host: IEEE Southeastern Michigan section 
 * [The Truth about AI with Prabhjot Kaur](https://www.youtube.com/watch?v=hLM2Wx8Df28)
-  * August 2023, Host: Jerome
+  * August 2023, Podcast Host: Cornell Jermaine
 ### Conference Talks
 * [Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796)
   * 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). Bellevue, Washington. December 2022.
