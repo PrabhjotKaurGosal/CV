@@ -1,5 +1,5 @@
 # About Me
-A seasoned engineer and a researcher. 10+ years of experience in product development in the automotive industry, specializing in the design and validation of the Advanced Driver Assistance Systems (ADAS). 5+ years of dedicated reserach in appplied Machine Learning, Deep Learning, Natural Language Processing with a track record of patents and publications. 
+A seasoned engineer and a researcher. 10+ years of experience in product development in the automotive industry, specializing in the design and validation of the Advanced Driver Assistance Systems (ADAS). 5+ years of dedicated research in applied Machine Learning, Deep Learning, Natural Language Processing with a track record of patents and publications. 
 Proven team player in cross-functional settings, passionate about mentoring emerging engineers. 
 
 ## Education
