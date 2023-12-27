@@ -85,11 +85,11 @@ Technologies (CHASE). ACM/IEEE.
 
 ## Professional Service
 ### Reviewer
-* IEEE Access
-* International Conference on Computer Vision and Virtual Reality
-* Qeios
-* Science Publishing Group
-
+* IEEE Access (1)
+* International Conference on Computer Vision and Virtual Reality (1)
+* Qeios (1)
+* 2024 IEEE Transportation Electrification Conference & Expo (6)
+* 
 ### Judge
 * Invited to judge a senior year design project, 2023. ECE department, University of Michigan - Dearborn
 
