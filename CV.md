@@ -34,7 +34,8 @@ Below is a high-level breakdown of various areas that I specialize in and relate
 62-70). IEEE.
   
 * **Natural Language Processing**: Being a tri-lingual myself, I see the value and knowledge embedded in every language of the world. I am passionate about enabling knowledge-sharing across different cultures and bringing communities together by overcoming language barriers. While my PhD reserach is currently focused in speech translation, I am well versed in dealing with both texual and speech data. My ongoing projects are below.
-  * Direct Speech to Speech Translation 
+  * Direct Speech to Speech Translation
+  * Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens, Nay San, Georgios Paraskevopoulos, Aryaman Arora1, Xiluo He, Prabhjot Kaur, Oliver Adams, Dan Jurafsky. 
   * Automatic Speech Recognition (ASR) for low resource languages by leveraging cross lingual pre-training 
   * I frequently publish lectures/tutorials in NLP/Speech processing/Language Translation [here](https://www.youtube.com/@prabhjotgosal2489)
     
