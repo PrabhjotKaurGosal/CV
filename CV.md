@@ -35,7 +35,7 @@ Below is a high-level breakdown of various areas that I specialize in and relate
   
 * **Natural Language Processing**: Being a tri-lingual myself, I see the value and knowledge embedded in every language of the world. I am passionate about enabling knowledge-sharing across different cultures and bringing communities together by overcoming language barriers. While my PhD reserach is currently focused in speech translation, I am well versed in dealing with both texual and speech data. My ongoing projects are below.
   * Direct Speech to Speech Translation
-  * Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens, Nay San, Georgios Paraskevopoulos, Aryaman Arora1, Xiluo He, Prabhjot Kaur, Oliver Adams, Dan Jurafsky. 
+  * [Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens](https://arxiv.org/abs/2402.02302)
   * Automatic Speech Recognition (ASR) for low resource languages by leveraging cross lingual pre-training 
   * I frequently publish lectures/tutorials in NLP/Speech processing/Language Translation [here](https://www.youtube.com/@prabhjotgosal2489)
     
@@ -67,6 +67,7 @@ Below is a high-level breakdown of various areas that I specialize in and relate
 * [Method to Assess Driver Responsiveness and improve system response through Language Processing]. Patent filed. US App. No. 18/492,436
 
 ## Publications
+* [Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens](https://arxiv.org/abs/2402.02302). In Special Interest Group on Typology (SIGTYP) 2024 Workshop at EACL 2024.
 * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745). In 
 2022 International Conference on Connected Health: Applications, Systems and Engineering 
 Technologies (CHASE). ACM/IEEE.
