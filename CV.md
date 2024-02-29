@@ -36,7 +36,6 @@ Below is a high-level breakdown of various areas that I specialize in and relate
 * **Natural Language Processing**: Being a tri-lingual myself, I see the value and knowledge embedded in every language of the world. I am passionate about enabling knowledge-sharing across different cultures and bringing communities together by overcoming language barriers. While my PhD reserach is currently focused in speech translation, I am well versed in dealing with both texual and speech data. My ongoing projects are below.
   * [Direct Punjabi to English speech translation using discrete units](https://arxiv.org/abs/2402.15967)
   * [Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens](https://arxiv.org/abs/2402.02302)
-  * Automatic Speech Recognition (ASR) for low resource languages by leveraging cross lingual pre-training 
   * I frequently publish lectures/tutorials in NLP/Speech processing/Language Translation [here](https://www.youtube.com/@prabhjotgosal2489)
     
 * **Audio Machine Learning/ Deep Learning**: 
@@ -58,15 +57,16 @@ Below is a high-level breakdown of various areas that I specialize in and relate
 ## Patents
 * [Driver monitoring system and method of operating the same](https://patents.google.com/patent/US10552695B1/en). U.S. Patent No. 10,552,695
 * [Method and subsystem for controlling an autonomous braking system for a vehicle](https://patents.google.com/patent/US11198418B2/en). U.S. Patent No. 11,198,418
+* [Dynamic A pillar blind spot determination]. U.S. Patent No. 17,937,533
 * [Systems and methods to communicate an intended vehicle maneuver](https://patents.google.com/patent/US20210146827A1/en). US20210146827A1
 * [Intelligent park assist system to reduce parking violations](https://patents.google.com/patent/US20220351622A1/en). U.S. Patent Application No. 17/242,905
 * [Intersection collision mitigation risk assessment model](https://patents.google.com/patent/US20220410882A1/en). US20220410882A1
-* [Dynamic A pillar blind spot determination]. Patent pending. US App. No. 17/937,533
 * [Intelligent Park Assist system to reduce parking violations, using time series modeling, and/or sign reading with park assist interface]. Patent pending. US App. No.	18/150,507
 * [Automated Pickup and Drop off planning and execution for vehicles]. Patent filed. US App. No. 18/464,702
 * [Method to Assess Driver Responsiveness and improve system response through Language Processing]. Patent filed. US App. No. 18/492,436
 
 ## Publications
+* [Direct Punjabi to English speech translation using discrete units](https://arxiv.org/abs/2402.15967). In 2nd International Conference on Natural Language Processing adn Artificial Intelligence (NLPAI), 2024.
 * [Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens](https://arxiv.org/abs/2402.02302). In Special Interest Group on Typology (SIGTYP) 2024 Workshop at EACL 2024.
 * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745). In 
 2022 International Conference on Connected Health: Applications, Systems and Engineering 
