@@ -21,11 +21,11 @@ Below is a high-level breakdown of various areas that I specialize in and relate
     * [Method to Assess Driver Responsiveness and improve system response through Language Processing]. Patent filed. US App. No. 18/492,436
   * Collision assessment and mitigation
     * [Method and subsystem for controlling an autonomous braking system for a vehicle](https://patents.google.com/patent/US11198418B2/en). U.S. Patent No. 11,198,418
+    * [Dynamic A pillar blind spot determination]. US Patent No. 17,937,533
+    * [Sensor fusion method for detecting emergency vehicles](https://www.researchdisclosure.com/database/RD696088). Research Disclosure. Publication #: 696088
     * [Intelligent park assist system to reduce parking violations](https://patents.google.com/patent/US20220351622A1/en). U.S. Patent Application No. 17/242,905
     * [Intersection collision mitigation risk assessment model](https://patents.google.com/patent/US20220410882A1/en). US20220410882A1
     * [Systems and methods to communicate an intended vehicle maneuver](https://patents.google.com/patent/US20210146827A1/en). US20210146827A1
-    * [Dynamic A pillar blind spot determination]. Patent pending. US App. No. 17/937,533
-    * [Sensor fusion method for detecting emergency vehicles](https://www.researchdisclosure.com/database/RD696088). Research Disclosure. Publication #: 696088
   * Park assist
     * [Intelligent Park Assist system to reduce parking violations, using time series modeling, and/or sign reading with park assist interface]. Patent pending. US App. No.	18/150,507
     * [Automated Pickup and Drop off planning and execution for vehicles]. Patent filed. US App. No. 18/464,702
@@ -93,6 +93,8 @@ Technologies (CHASE). ACM/IEEE.
 * 2024 IEEE Transportation Electrification Conference & Expo (6)
   
 ### Judge
+* Panelist for Senior Member Applications review, IEEE, 2024
+* Judge, FIRST Robotics, 2024
 * Invited to judge a senior year design project, 2023. ECE department, University of Michigan - Dearborn
 
 ## Talks
@@ -102,6 +104,8 @@ Technologies (CHASE). ACM/IEEE.
 * [The Truth about AI with Prabhjot Kaur](https://www.youtube.com/watch?v=hLM2Wx8Df28)
   * August 2023, Podcast Host: Cornell Jermaine
 ### Conference Talks
+* [Direct Punjabi to English speech translation using discrete units](https://arxiv.org/abs/2402.15967)
+  * 2024 2nd International Conference on NLP and AI (NLPAI). Virtual, March 2022.
 * [Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796)
   * 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). Bellevue, Washington. December 2022.
 * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745)
