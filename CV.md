@@ -106,6 +106,7 @@ Technologies (CHASE). ACM/IEEE.
 ### Conference Talks
 * [Direct Punjabi to English speech translation using discrete units](https://arxiv.org/abs/2402.15967)
   * 2024 2nd International Conference on NLP and AI (NLPAI). Virtual, March 2022.
+  * https://www.youtube.com/watch?v=tvYeV-KYIvM&list=PL1HkUyqULCxyby3QAXBQtreykxN5TG7dF&index=10
 * [Autonomous mobile robot for indoor enhanced living](https://ieeexplore.ieee.org/abstract/document/9996796)
   * 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC). Bellevue, Washington. December 2022.
 * [Fall Detection from Audios with Audio Transformers](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000745)
